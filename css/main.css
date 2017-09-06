@@ -1,0 +1,56 @@
+body{
+	min-width			:	420px;
+}
+header.main-header{
+	padding				:	15px 0px;
+}
+header.main-header #logo{
+	width				:	200px;
+}
+header.main-header #main-title{ }
+header.main-header h1{	
+	text-align			:	left;
+	margin-top			: 	10px;
+}
+nav.navbar{
+	background			:	#e03a3e;
+	border-top			:	3px ridge #e03a3e;	
+	border-bottom		:	6px ridge #e03a3e;
+	height				:	60px;
+}	
+ul.navbar-nav{
+	background			:	#e03a3e;
+	padding				:	0px 20px
+}	
+nav.navbar a.navbar-brand,.navbar-inverse .navbar-nav .nav-link {
+	color				:	#fff;
+}
+.navbar-inverse .navbar-nav .active > .nav-link, .navbar-inverse .navbar-nav .nav-link.active, .navbar-inverse .navbar-nav .nav-link.open, .navbar-inverse .navbar-nav .open > .nav-link {
+    color 				:	#aaa;
+	text-decoration		:	underline;
+}
+.navbar-inverse .navbar-toggler{
+	border-color		:	#fff;
+}
+.navbar-inverse .navbar-toggler-icon {
+	background-image	:	url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1.0)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.page-header{
+	border-bottom		:	1px solid #ddd;
+	margin-bottom		:	25px;
+}
+pre{
+	background-color	:	#eee;
+}
+footer{
+	margin-top			:	10px;
+	background			:	#aaa;
+}
+footer .row-fluid{
+	color				:	#fff;
+	height				:	40px;
+}
+footer .row-fluid .cell{	
+	padding-top			:	8px;
+	text-align			:	center;
+}

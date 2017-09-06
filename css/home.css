@@ -1,0 +1,19 @@
+.monthTitle{	
+	background			:	#ddd;
+	text-align 			: 	center;
+	height				:	40px;
+	font-size			:	1.6em;
+}
+.weekTitle{
+	background			:	#F0F8FF;
+	text-align 			: 	center;
+}
+.row > .col-12.col-md-6.col-lg-3{
+	border-right		:	1px solid #003366;
+}
+.row > .col-12.col-md-6.col-lg-3:last-child{
+	border-right		: 	none;
+}
+a{
+	font-size			:	90%;
+}
