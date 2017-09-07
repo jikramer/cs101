@@ -41,7 +41,7 @@
 					</div>
 					<div class="row">
 						<div class="col-3">9/6/17</div>
-						<div class="col-9"><a href="../docs/lectures/lecture0.pptx" target="_blank">Lecture 0: Introduction</a></div>
+						<div class="col-9"><a href="../docs/lectures/Lecture0.pptx" target="_blank">Lecture 0: Introduction</a></div>
 					</div>
 					<div class="row">
 						<div class="col"><a href="../pages/orientation.php">Lab 0</a></div>

@@ -125,13 +125,13 @@
 					<div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="headingFive">
 						<div class="card-block">
 							<p>
-								Homework is due on the day indicated (Mondays, for fall 2017) at 11:59 PM. At the beginning of the semester you will receive three CS 5 <i>Euros</i>
+								Homework is due on the day indicated (Mondays, for fall 2017) at 11:59 PM. At the beginning of the semester you will receive three CS 101 <i>Euros</i>
 								(which have been losing value recently, so we're are considering a switch to bitcoin...). Each "Euro" provides one 24-hour extension on any one
-								homework assignment, i.e., a "late day."  If you submit your homework after the deadline, you will automatically be charged a CS 5 Euro.
+								homework assignment, i.e., a "late day."  If you submit your homework after the deadline, you will automatically be charged a CS 101 Euro.
 							</p>
 							<p>
 								You do not need to tell us that you're using a "Euro" extension -- the submission system will notice that based on your submission time and
-								"bill" your virtual account a Euro.  Homework that is more than 24 hours late or submitted after the deadline when no CS 5 Euros remain results
+								"bill" your virtual account a Euro.  Homework that is more than 24 hours late or submitted after the deadline when no CS 101 Euros remain results
 								in undefined behavior.
 							</p>
 							<p>
