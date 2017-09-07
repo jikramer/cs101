@@ -221,7 +221,7 @@
 											<li>Open Windows File Explorer </li>
 											<li>Find your Anaconda folder. It may be in C:\Users\YourName\Anaconda </li>
 											<li>To check, inside that folder, there will be a file named python.exe (you may need to scroll down)</li>
-											<li>Click in the File Explorer box, windows will let you copy (control-c) the pathname</li>
+											<li>Click in the File Explorer box, windows will let you copy (control-c) the name</li>
 											<li>Then, Google for add folder to windows path</li>
 											<li>Follow Google's instructions, through the Windows control panel to the path-editing textbox</li>
 											<li>You might feel like you've drilled through several decades of Windows interfaces. You have.</li>
@@ -341,8 +341,7 @@
 							</p>
 							<p>
 								Lots of special characters carry around the formatting information. All programming languages use raw text (strings of characters): text-editors
-								are the right tools.  You may not need it, but here's a bit of elaboration on <a href="https://www.cs.hmc.edu/twiki/bin/view/CS5/CreatingPlainTextFilesInAnyOS" target="_blank">
-								creating plain-text files in Sublime Text</a>.
+								are the right tools.  </a>.
 							</p>
 							<p>
 								Into your new file type or paste
